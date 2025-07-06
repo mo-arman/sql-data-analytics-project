@@ -60,6 +60,10 @@ To perform **EDA using pure SQL** by:
 
 ---
 
+## EDA Structure 
+![Exploratory Data Analysis drawio](https://github.com/user-attachments/assets/8c384f6a-fa29-4220-a065-ac3f6a1997f6)
+
+
 ## 📌 Sample Insight Query
 
 ```sql
