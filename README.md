@@ -63,18 +63,6 @@ To perform **EDA using pure SQL** by:
 ## EDA Structure 
 ![Exploratory Data Analysis drawio](https://github.com/user-attachments/assets/8c384f6a-fa29-4220-a065-ac3f6a1997f6)
 
-
-## 📌 Sample Insight Query
-
-```sql
-SELECT call_date,
-       COUNT(*) AS total_calls,
-       AVG(duration) AS avg_duration,
-       SUM(CASE WHEN sla_met = 'No' THEN 1 ELSE 0 END) AS missed_sla
-FROM gold.call_center_data
-GROUP BY call_date
-ORDER BY call_date;
-
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
@@ -87,3 +75,16 @@ This project reflects my passion for turning raw data into meaningful narratives
 
 🏷️ Tags
 #SQL #EDA #DataAnalytics #CallCenterData #PortfolioProject #DataCleaning
+
+
+## 📌 Sample Insight Query
+
+```sql
+SELECT call_date,
+       COUNT(*) AS total_calls,
+       AVG(duration) AS avg_duration,
+       SUM(CASE WHEN sla_met = 'No' THEN 1 ELSE 0 END) AS missed_sla
+FROM gold.call_center_data
+GROUP BY call_date
+ORDER BY call_date;
+
