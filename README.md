@@ -76,6 +76,10 @@ This project reflects my passion for turning raw data into meaningful narratives
 # 🏷️ Tags
 #SQL #EDA #DataAnalytics #CallCenterData #PortfolioProject #DataCleaning
 
+## ☕ Support My Work
+If you find this project helpful, consider supporting me here:  
+➡️ [Buy Me a Coffee](https://www.buymeacoffee.com/moarman)
+
 
 ## 📌 Sample Insight Query
 
