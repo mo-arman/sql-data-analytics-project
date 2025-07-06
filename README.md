@@ -63,11 +63,11 @@ To perform **EDA using pure SQL** by:
 ## EDA Structure 
 ![Exploratory Data Analysis drawio](https://github.com/user-attachments/assets/8c384f6a-fa29-4220-a065-ac3f6a1997f6)
 
-🛡️ License
+# 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-👨‍💻 About Me
-Mohammad Arman
+# 👨‍💻 About Me
+## Mohammad Arman
 Aspiring Data Analyst | SQL • Power BI • Python • Excel
 This project reflects my passion for turning raw data into meaningful narratives using structured querying alone.
 
