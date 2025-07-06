@@ -66,9 +66,9 @@ To perform **EDA using pure SQL** by:
 # 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-# 👨‍💻 About Me
- Mohammad Arman
-Aspiring Data Analyst | SQL • Power BI • Python • Excel
+## 👨‍💻 About Me  
+**Mohammad Arman**  <br>
+Aspiring Data Analyst | SQL • Power BI • Python • Excel  <br>
 This project reflects my passion for turning raw data into meaningful narratives using structured querying alone.
 
 🔗 LinkedIn
