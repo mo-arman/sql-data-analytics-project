@@ -67,13 +67,13 @@ To perform **EDA using pure SQL** by:
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 # 👨‍💻 About Me
-## Mohammad Arman
+ Mohammad Arman
 Aspiring Data Analyst | SQL • Power BI • Python • Excel
 This project reflects my passion for turning raw data into meaningful narratives using structured querying alone.
 
 🔗 LinkedIn
 
-🏷️ Tags
+# 🏷️ Tags
 #SQL #EDA #DataAnalytics #CallCenterData #PortfolioProject #DataCleaning
 
 
