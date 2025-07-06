@@ -75,6 +75,9 @@ FROM gold.call_center_data
 GROUP BY call_date
 ORDER BY call_date;
 
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
 👨‍💻 About Me
 Mohammad Arman
 Aspiring Data Analyst | SQL • Power BI • Python • Excel
